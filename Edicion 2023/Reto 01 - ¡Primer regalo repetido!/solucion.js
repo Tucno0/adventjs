@@ -1,7 +1,7 @@
 /**
  *
  * @param {Array} gifts
- * @returns
+ * @returns {Number} firstRepeatedId
  */
 function findFirstRepeated(gifts) {
   // Code here
